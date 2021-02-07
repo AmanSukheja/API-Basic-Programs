@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3871" started-at="2021-02-06T01:20:03 IST" finished-at="2021-02-06T01:20:07 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3871" started-at="2021-02-06T01:20:03 IST" finished-at="2021-02-06T01:20:07 IST">
+      <class name="putMethods.TC4_PUT_Request">
+        <test-method status="PASS" signature="updateAnActivity()[pri:0, instance:putMethods.TC4_PUT_Request@1d8d30f7]" name="updateAnActivity" duration-ms="3829" started-at="2021-02-06T01:20:03 IST" finished-at="2021-02-06T01:20:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateAnActivity -->
+      </class> <!-- putMethods.TC4_PUT_Request -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
